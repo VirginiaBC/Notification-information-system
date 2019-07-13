@@ -1,0 +1,117 @@
+	body{
+		font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+		background: #fff url(./image/bg.jpg) repeat top left;
+		font-weight: 400;
+		font-size: 15px;
+		color: #333;
+	}
+	#tubiao{
+	      position: absolute;
+	      right: 2%;
+	      top: 2%;
+	    }
+    .tu{
+      
+      margin: 10px;
+      
+    }
+    #tubiao a {
+      text-decoration:none;
+      width: 15px;
+      height: 20px;
+      color:black;
+    }
+
+	.biaodan{
+		width: 100%;
+		max-width: 1150px;
+		min-width: 280px;
+		position: absolute;
+		top:10%;
+		padding: 10px 25px 30px 20px;
+		box-shadow: 1px 2px 4px rgba(0,0,0,0.2);
+	}
+	.biaodan h3 {
+		margin: 0px;
+		color: #444;
+		padding: 10px;
+	}
+
+
+	table.hovertable {
+
+		font-family: verdana,arial,sans-serif;
+
+		font-size:13px;
+
+		color:#333333;
+
+		border-width: 1px;
+
+		border-color: #104E8B;
+
+		border-collapse: collapse;
+		
+		width: 100%;
+	}
+
+	table.hovertable th {
+
+		background-color:#104E8B;
+
+		border-width: 1px;
+
+		padding: 8px;
+
+		border-style: solid;
+
+		border-color: #333;
+
+		color: #fff;
+
+	}
+
+	table.hovertable tr {
+
+		background-color:#fff;
+		
+
+	}
+
+	table.hovertable td {
+
+		border-width: 1px;
+
+		padding: 8px;
+
+		border-style: solid;
+
+		border-color: #6495ED;
+
+	}
+		.addmore{
+			position:absolute;
+			right: 23%;
+
+		}
+		.addmore button{
+			width: 120px;
+			height: 30px; 
+			border-width: 0px;
+			border-radius: 3px;
+			background: #104E8B; 
+			cursor: pointer; 
+			outline: none; 
+			font-family: Microsoft YaHei;
+			color: white; 
+			font-size: 15px; 
+		}
+		.addmore button:hover{
+			background: #6495ED;
+
+		}
+
+
+
+
+
